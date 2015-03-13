@@ -256,7 +256,7 @@
         "originalURL": ""
     },
     {
-        "name": "Mic's Yorkshire Puds",
+        "name": "Mic's ray's Puds",
         "ingredients": [
             {
                 "quantity": "200g",
@@ -568,7 +568,7 @@
                 "quantity": "1",
                 "name": "stir fry packet",
                 "type": "Baking"
-            },            
+            }           
         ],
         "steps": [
             "Insert stir fry packet into microwave.",
@@ -578,7 +578,7 @@
         "timers": [
             0,
             3,
-            0,
+            0
         ],
         "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
         "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
